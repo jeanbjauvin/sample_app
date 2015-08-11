@@ -14,3 +14,6 @@
 
 # Ignore installed bundle
 /vendor/bundle/*
+
+# Ignore Spring files.
+/spring/*.pid
